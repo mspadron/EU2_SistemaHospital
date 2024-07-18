@@ -1,0 +1,14 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar archivos de log
+*.log
+
+# Ignorar archivos de configuración local (específicos de tu entorno de desarrollo)
+.env
+.env.local
+
+# Ignorar archivos de build o compilación
+build/
+dist/
+.next/
